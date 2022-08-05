@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="Entertainment",BBC 1 SD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103652.ts
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="Entertainment",BBC 1 HD
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_one_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbconehd.png" group-title="Entertainment",BBC 1 FHD
@@ -373,64 +371,14 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/71336.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="Sky Sports",Sky Sports Racing FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/409.ts
-#EXTINF:-1 tvg-id="1.S" tvg-name="Spark Sports 1" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 1
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104057.ts
-#EXTINF:-1 tvg-id="2.S" tvg-name="Spark Sports 2" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 2
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104160.ts
-#EXTINF:-1 tvg-id="3.S" tvg-name="Spark Sports 3" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 3
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104121.ts
-#EXTINF:-1 tvg-id="4.S" tvg-name="Spark Sports 4" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 4
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104082.ts
-#EXTINF:-1 tvg-id="5.S" tvg-name="Spark Sports 5" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 5
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104167.ts
-#EXTINF:-1 tvg-id="NFL.REPLAY.10A" tvg-name="Spark Sports 6" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 6
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spark Sports 7" tvg-logo="https://www.istreamplanet.com/static/media/sparksport-logo.d7023084.png" group-title="DAZN / Spark / Optus",Spark Sports 7
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104066.ts
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SP| Supersport Blitz" tvg-logo="https://www.dropbox.com/s/c05xy5t3xxdglu2/supersport-blitz-live.png?dl=1" group-title="Supersports SA",SP| Supersport Blitz
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102806.ts
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SP| Supersport MaXimo 1" tvg-logo="https://www.dropbox.com/s/ufmqsw9zpdmfog3/maximo-1.png?dl=1" group-title="Supersports SA",SP| Supersport MaXimo 1
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102807.ts
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="SP| Supersport Play" tvg-logo="https://www.dropbox.com/s/mvsbrlk4p88912r/dstvsupersport-play.png?dl=1" group-title="Supersports SA",SP| Supersport Play
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103840.ts
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SP| SuperSport La Liga" tvg-logo="https://www.dropbox.com/s/6brqfea336dzoxq/LIG.png?dl=1" group-title="Supersports SA",SP| SuperSport La Liga
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102245.ts
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SP| SuperSport PSL" tvg-logo="https://www.dropbox.com/s/p74atov5gpd287w/psl.png?dl=1" group-title="Supersports SA",SP| SuperSport PSL
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102244.ts
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SP| SuperSport Premier League" tvg-logo="https://www.dropbox.com/s/vem1miuca3b0a66/epl.png?dl=1" group-title="Supersports SA",SP| SuperSport Premier League
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102243.ts
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SP| SuperSport Grandstand" tvg-logo="https://www.dropbox.com/s/cjim0v3xul6i0yp/supersport-grandstand.png?dl=1" group-title="Supersports SA",SP| SuperSport Grandstand
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102242.ts
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SP| SuperSport Variety 1" tvg-logo="https://www.dropbox.com/s/yep23x5sdcwf6dr/supersport-variety-1.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 1
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102240.ts
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SP| SuperSport Variety 2" tvg-logo="https://www.dropbox.com/s/sei3s6przw6j6wo/supersport-variety-2.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 2
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102241.ts
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SP| SuperSport Variety 3" tvg-logo="https://www.dropbox.com/s/m8f8osjeu7kyw19/supersport-variety-3.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 3
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102236.ts
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SP| SuperSport Variety 4" tvg-logo="https://www.dropbox.com/s/6hrrenuarallnf1/supersport-variety-4.png?dl=1" group-title="Supersports SA",SP| SuperSport Variety 4
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102237.ts
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SP| SuperSport Action" tvg-logo="https://www.dropbox.com/s/l8q732u2zjcx8mb/supersport-action.png?dl=1" group-title="Supersports SA",SP| SuperSport Action
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102239.ts
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SP| SuperSport Football" tvg-logo="https://www.dropbox.com/s/qswm3jj1qdmnajm/supersport-football-live.png?dl=1" group-title="Supersports SA",SP| SuperSport Football
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102238.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP| SuperSport Football Plus" tvg-logo="https://www.dropbox.com/s/qswm3jj1qdmnajm/supersport-football-live.png?dl=1" group-title="Supersports SA",SP| SuperSport Football Plus
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104192.ts
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SP| SuperSport Rugby" tvg-logo="https://www.dropbox.com/s/ntyb3zgjt7gktnp/supersport-rugby.png?dl=1" group-title="Supersports SA",SP| SuperSport Rugby
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102235.ts
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SP| SuperSport Cricket" tvg-logo="https://www.dropbox.com/s/xxsosafrbmoygkc/supersport-cricket.png?dl=1" group-title="Supersports SA",SP| SuperSport Cricket
-https://hostcloud.network/live/aD8C1ETPQU28/842373/102234.ts
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SP| SuperSport Golf" tvg-logo="https://www.dropbox.com/s/ndmh8ikrga39b62/supersport-golf.png?dl=1" group-title="Supersports SA",SP| SuperSport Golf
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103555.ts
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SP| SuperSport Tennis" tvg-logo="https://www.dropbox.com/s/bnajs71ma6fmhg4/supersport-tennis.png?dl=1" group-title="Supersports SA",SP| SuperSport Tennis
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104135.ts
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SP| SuperSport Motorsport" tvg-logo="https://www.dropbox.com/s/253ash5c7g4utms/supersport-motorsport.png?dl=1" group-title="Supersports SA",SP| SuperSport Motorsport
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104134.ts
-#EXTINF:-1 tvg-id="supersportwwe.za" tvg-name="SP| SuperSport WWE" tvg-logo="https://www.dropbox.com/s/uc6wsisng5f35rc/wwe-channel.png?dl=1" group-title="Supersports SA",SP| SuperSport WWE
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104193.ts
-#EXTINF:-1 tvg-id="espn.za" tvg-name="SP| ESPN" tvg-logo="https://www.dropbox.com/s/09zbq5nf3vlferf/ESPN-Logo.png?dl=1" group-title="Supersports SA",SP| ESPN
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104101.ts
-#EXTINF:-1 tvg-id="espn2.za" tvg-name="SP| ESPN 2" tvg-logo="https://www.dropbox.com/s/k9z6swxw43ayyco/1000px-ESPN2_logo.svg.png?dl=1" group-title="Supersports SA",SP| ESPN 2
-https://hostcloud.network/live/aD8C1ETPQU28/842373/104203.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616919
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616920
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616921
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://i.imgur.com/00xbr96.png" group-title="Sports",BT Sport 4 HD
+https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616922
 #EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnation.png" group-title="Sports",Box Nation
 https://hostcloud.network/live/aD8C1ETPQU28/842373/414.ts
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnationhd.png" group-title="Sports",Box Nation FHD
@@ -461,27 +409,3 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/89136.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/226.ts
 #EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing UK FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/racinguk.png" group-title="Sports",Racing UK FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/227.ts
-#EXTINF:-1 tvg-id="optussport1.au" tvg-name="Optus Sports 1 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 1 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93033.ts
-#EXTINF:-1 tvg-id="os2" tvg-name="Optus Sports 2 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 2 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93032.ts
-#EXTINF:-1 tvg-id="os1" tvg-name="Optus Sports 3 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 3 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93031.ts
-#EXTINF:-1 tvg-id="OptusSport4.au" tvg-name="Optus Sports 4 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 4 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93030.ts
-#EXTINF:-1 tvg-id="MATCH5.AFL" tvg-name="Optus Sports 5 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 5 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93029.ts
-#EXTINF:-1 tvg-id="MATCH6.AFL" tvg-name="Optus Sports 6 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 6 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93028.ts
-#EXTINF:-1 tvg-id="MATCH7.AFL" tvg-name="Optus Sports 7 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 7 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/93027.ts
-#EXTINF:-1 tvg-id="FMC-37" tvg-name="Optus Sports 8 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 8 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103430.ts
-#EXTINF:-1 tvg-id="FMC-36" tvg-name="Optus Sports 9 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 9 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103429.ts
-#EXTINF:-1 tvg-id="FMC-35" tvg-name="Optus Sports 10 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 10 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103428.ts
-#EXTINF:-1 tvg-id="FMC-34" tvg-name="Optus Sports 11 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 11 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103427.ts
-#EXTINF:-1 tvg-id="FMC-33" tvg-name="Optus Sports 12 HD" tvg-logo="https://www.dropbox.com/s/j46adjkcrpc8k2l/optussport.png?dl=1" group-title="DAZN / Spark / Optus",Optus Sports 12 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103426.ts
